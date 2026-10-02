@@ -29,9 +29,9 @@ customers churn at ~83%, roughly 8x the rate of Low-risk customers (~12%).
    "churn vs. overall average" variance measure that updates on cross-filter
 
 ## Screenshots
-![Overview](overview.png)
-![Segment Analysis](segment-analysis.png)
-![Risk Drivers](risk-drivers.png)
+![Overview](Overview.png)
+![Segment Analysis](SegmentAnalysis.png)
+![Risk Drivers](RiskDrivers.png)
 
 ## Tools Used
 Power BI Desktop · Power Query (data cleaning, conditional columns) · DAX 
